@@ -73,6 +73,8 @@ int main()
             cv::initUndistortRectifyMap(cameraMatrix, distCoeffs, R1, P1, imgSize, CV_16SC2, map1[0], map2[0]);
             cv::initUndistortRectifyMap(cameraMatrix, distCoeffs, R2, P2, imgSize, CV_16SC2, map1[1], map2[1]);
 
+
+
         }
 
         imshow("Output", out);

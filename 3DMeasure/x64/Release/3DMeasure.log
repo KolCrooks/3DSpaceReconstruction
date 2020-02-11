@@ -1,8 +1,11 @@
 ﻿  3DMeasure.cpp
 C:\Users\kolcr\source\repos\3DMeasure\3DMeasure\BoardGen.h(13): warning C4091: 'static ': ignored on left of 'Board::BoardProps' when no variable is declared
+  BoardGen.cpp
+C:\Users\kolcr\source\repos\3DMeasure\3DMeasure\BoardGen.h(13): warning C4091: 'static ': ignored on left of 'Board::BoardProps' when no variable is declared
+  Camera_Calibrate.cpp
   Generating code
-  2 of 222 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+  51 of 222 functions (23.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   3DMeasure.vcxproj -> C:\Users\kolcr\source\repos\3DMeasure\x64\Release\3DMeasure.exe
